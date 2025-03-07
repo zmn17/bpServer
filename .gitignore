@@ -1,0 +1,13 @@
+# Ignore build artifacts
+server
+*.o
+
+docker-compose.yml
+.dockerignore
+
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+.env
